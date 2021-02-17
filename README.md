@@ -1,7 +1,7 @@
 [![Hello 👋](https://raw.githubusercontent.com/agregaranalytics/Web-Scraping/main/card.jpg)][3]
 ### Hi there, 👋
 
-Construir base de dados pode ser mais fácil! Desenvolvemos códigos para raspar dados em sites governamentais, redes sociais, lojas, etc.
+Construir base de dados pode ser mais fácil! Desenvolvemos códigos para raspar dados em sites governamentais, redes sociais, lojas, etc. Confira aqui um pouco do nosso trabalho
 
 ## 📬 Get in touch
 
