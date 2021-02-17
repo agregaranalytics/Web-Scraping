@@ -31,7 +31,7 @@ ticker = "PETR4"
 indate = "01/01/2017" # mm/dd/yyyy
 findate = "05/25/2020" # mm/dd/yyyy
 fqc = "daily" # daily, weekly, monthly 
-setwd("C:\\Users\\xxxxxxxxxxx\\Documents\\Carteira")
+setwd("C:\\Users\\xxxxxxxxxxx\\Documents\\Carteira") 
 
 robot = function(ticker,indate,findate,fqc){
 	# Google
