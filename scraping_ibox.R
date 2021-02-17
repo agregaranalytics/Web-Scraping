@@ -14,5 +14,5 @@ for(i in 1:length(sierra)){
 	}
 	pb = txtProgressBar(min = (1/length(sierra)), max = length(sierra), style = 3)
 	setTxtProgressBar(pb,i)
-}
+} 
 
