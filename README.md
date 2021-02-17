@@ -1,4 +1,4 @@
-[![Hello 👋](https://raw.githubusercontent.com/agregaranalytics/Web-Scraping/main/card.JPG)][3]
+[![Hello 👋](https://raw.githubusercontent.com/agregaranalytics/Web-Scraping/main/card.jpg)][3]
 ### Hi there, 👋
 
 Construir base de dados pode ser mais fácil! Desenvolvemos códigos para raspar dados em sites governamentais, redes sociais, lojas, etc.
@@ -11,3 +11,4 @@ Construir base de dados pode ser mais fácil! Desenvolvemos códigos para raspar
 
 [1]: https://agregaranalytics.github.io
 [2]: mailto:agregaranalytics@gmail.com
+[3]: https://github.com/agregaranalytics
